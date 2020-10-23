@@ -37,6 +37,7 @@ Before Thomas High School Recalculations<br>
 After Thomas High School Recalculations<br>
 ![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/Challange_Categorized.PNG)
 
+
 		|Before recalc|After recalc    |
                 _____________ |_______________
 Reading        |   97.3088    |   97.1873      |
