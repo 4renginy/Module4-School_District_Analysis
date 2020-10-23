@@ -34,7 +34,7 @@ Before Thomas High School Recalculations<br>
 ![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/Module_categorized.PNG)
 
 After Thomas High School Recalculations<br>
-![] (https://github.com/4renginy/School_District_Analysis/blob/main/Resources/Challange_Categorized.PNG)
+![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/Challange_Categorized.PNG)
 
 
 	
