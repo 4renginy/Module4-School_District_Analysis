@@ -10,13 +10,14 @@ Recently school board has notifed us that there might be academic dishonesty: sp
 	
 
 In order to accomplish this tasks we will use open-source distribution software called Anaconda and one of its products, Jupyter Notebook and Pandas programming library. 
-Using Jupyter Notebook and the Pandas library, we will read raw data from CSV files, inspect and clean data, merge datasets, perform mathematical calculations, and visualize the data with charts and graphs to tell a story.
+Using Jupyter Notebook and the Pandas library, we will read raw data from CSV files, inspect and clean data, merge datasets, perform mathematical calculations, and visualize the data with charts and graphs to tell a story.<br>
+<br>
 
-We created PyCitySchools_Challange_starter_code running this code gave us the following:
+We created PyCitySchools_Challange_starter_code running this code gave us the following:<br>
 -After replacing the grades with NAN for Reading and Math results, 461 number of student accounts affected by this change.
-	Total Student count for the average calculations went down to 38,709
+	Total Student count for the average calculations went down to 38,709<br>
 -Changing the grades to NAN reqired the passing math, passing reading and passing overall scored to be recalutaed.They are as below; 
-    District Counts Before
+    	District Counts Before
 	Pic
 	District Counts After
 	pic
