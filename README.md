@@ -54,7 +54,9 @@ Per student spending for Thomas High School was for has remained the same as $ 6
 
 -Running the calculations for the type of the school showed despite the 0.5 %drop on THS success rate Charter Schools have better success rating than the district schools.<br>
  Before the change;<br>
+ <br>
 ![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/Module_success_by_type.PNG)
+<br>
 After the change;<br>
 ![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/Module_success_by_type.PNG)
 
