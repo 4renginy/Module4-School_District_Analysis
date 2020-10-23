@@ -18,8 +18,7 @@ Using Jupyter Notebook and the Pandas library, we read raw data from CSV files, 
 -After replacing the grades with NAN for Reading and Math results, 461 number of student accounts affected by this change and total Student count for the average calculations 	went down to 38,709, using the new numbers we have calculated the new math and readign scores. Results are shown below<br>
 
 <br>
-	District Counts Before<br>
-    <br>
+District Counts Before<br>
 ![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/module_dist_summary.PNG)
 District Counts After<br>
 
