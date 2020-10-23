@@ -1,7 +1,7 @@
 # School_District_Analysis
 
 
-
+#Background
 Maria and I work for city school district. We collects all the necessary information from school sites and state resources enter it to our system and analyze it.Those anlysis help the board to make sound decisions on how to spend budget most efficient way.
 Recently school board has notifed us that there might be academic dishonesty: specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. We were given the following tasks to complete;
 
@@ -9,7 +9,7 @@ Recently school board has notifed us that there might be academic dishonesty: sp
 	2-Repeat the school district analysis for all schools
 	3-Write up a report to describe how these changes affected the overall analysis
 	
-
+#Process and Results
 In order to accomplish task 1 and task 2 we have used open-source distribution software called Anaconda and one of its products, Jupyter Notebook and Pandas programming library. 
 Using Jupyter Notebook and the Pandas library, we read raw data from CSV files, inspected, and cleaned them, performed mathematical calculations and completed the following code
 
