@@ -21,8 +21,9 @@ We created PyCitySchools_Challange_starter_code running this code gave us the fo
 <br>
 	District Counts Before<br>
     <br>
-    ![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/module_dist_summary.PNG)
-	District Counts After<br>
+    ![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/module_dist_summary.PNG)<br>
+    <br>
+    District Counts After<br>
 	<br>
     ![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/Challange_Dist_Summary.PNG)
 	
