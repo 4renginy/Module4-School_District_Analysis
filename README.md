@@ -10,16 +10,21 @@ Recently school board has notifed us that there might be academic dishonesty: sp
 	3-write up a report to describe how these changes affected the overall analysis
 	
 In order to accomplish this tasks we will use open-source distribution software called Anaconda and one of its products, Jupyter Notebook and Pandas programming library. 
-Using Jupyter Notebook and the Pandas library, we will read raw data from CSV files, inspect and clean data, merge datasets, perform mathematical calculations, and visualize the data with charts and graphs to tell a story.
+Using Jupyter Notebook and the Pandas library, we will read raw data from CSV files, inspect and clean data, merge datasets, perform mathematical calculations, and visualize the data with charts and graphs to tell a story.<br>
 
-We created PyCitySchools_Challange_starter_code running this code gave us the following:
--After replacing the grades with NAN for Reading and Math results, 461 number of student accounts affected by this change.
-	Total Student count for the average calculations went down to 38,709
--Changing the grades to NAN reqired the passing math, passing reading and passing overall scored to be recalutaed.They are as below; 
-    District Counts Before
-	Pic
-	District Counts After
-	pic
+We created PyCitySchools_Challange_starter_code running this code gave us the following:<br>
+<br>
+-After replacing the grades with NAN for Reading and Math results, 461 number of student accounts affected by this change.<br>
+	Total Student count for the average calculations went down to 38,709<br>
+-Changing the grades to NAN reqired the passing math, passing reading and passing overall scored to be recalutaed.They are as below;<br>
+<br>
+	District Counts Before<br>
+    <br>
+    ![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/module_dist_summary.PNG)
+	District Counts After<br>
+	<br>
+    ![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/Challange_Dist_Summary.PNG)
+	
 	Overall passing percentage went down from 65.2 % to 64.9% which is .3 % downgrade.
 -Next we rerun all the analysis for the district and each school as requested.
 	
