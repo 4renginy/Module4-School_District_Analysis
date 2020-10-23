@@ -27,7 +27,6 @@ Using Jupyter Notebook and the Pandas library, we read raw data from CSV files, 
 	<br>
     ![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/Challange_Dist_Summary.PNG)
 	
-	
 Looking at those pictures Overall passing percentage went down from 65.2 % to 64.9% which is .3 % downgrade.
 -Next we rerun all the analysis for the district and each school as requested.
 	
