@@ -44,7 +44,7 @@ After Thomas High School Recalculations<br>
 -Created the following spending bins
 "<$584", "$585-629", "$630-644", "$645-675" and Thomas High Schol was in a 630-644 bin. There was no change to the change before and after calculations.
 -Running the calculations for the type of the school 
-Charter Schools seemed to be more sucessful despide the drop on 0.5 % on Overall passing percentage.
+Charter Schools seemed to be more sucessful despide the drop on 0.5 % on Overall passing percentage..
 -
  
 sdfasd
