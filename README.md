@@ -20,11 +20,11 @@ Using Jupyter Notebook and the Pandas library, we read raw data from CSV files, 
 <br>
 	District Counts Before<br>
     <br>
-    ![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/module_dist_summary.PNG)<br>
+![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/module_dist_summary.PNG)<br>
     <br>
     District Counts After<br>
 	<br>
-    ![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/Challange_Dist_Summary.PNG)
+![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/Challange_Dist_Summary.PNG)
 	
 Looking at those pictures Overall passing percentage went down from 65.2 % to 64.9% which is .3 % downgrade.
 -Next we rerun all the analysis for the district and each school as requested. Folling pictures show that Thomas High School's rating for math, reading and overall pass percentages have being dropped.
