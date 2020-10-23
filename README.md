@@ -19,8 +19,7 @@ Using Jupyter Notebook and the Pandas library, we read raw data from CSV files, 
 
 <br>
 District Counts Before<br>
-![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/module_dist_summary.PNG)   
-
+![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/module_dist_summary.PNG)
 District Counts After<br>
 ![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/Challange_Dist_Summary.PNG)
 
