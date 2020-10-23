@@ -48,7 +48,13 @@ Passing_Overall%.........90.9480.........90.6303
 
 -Although there is .3 % drop on the overall passing percentage Thomas High School kept its second place as high performing school.
 ![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/Challange_top5.PNG)
-The spening per student has remained the same but success rate in the bin Thomas High Scholl has dropped
--Running the calculations for the type of the school showed despite the0.5 %drop on THS success rate Charter Schools have better success rating than the district schools.
+Per student spending for Thomas High School was for has remained the same as $ 638 however overall passing rate for the spendng bucket dropped from 62.8576% to  62.7782 %,br>
+
+-Running the calculations for the type of the school showed despite the 0.5 %drop on THS success rate Charter Schools have better success rating than the district schools.,br>
+ Before the change;
+![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/Module_success_by_type.PNG)
+After the change;
+![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/Module_success_by_type.PNG)
+
 
 
