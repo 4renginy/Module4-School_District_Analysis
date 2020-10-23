@@ -5,12 +5,13 @@
 Maria and I work for city school district. We collects all the necessary information from school sites and state resources enter it to our system and analyze it.Those anlysis help the board to make sound decisions on how to spend budget most efficient way.
 Recently school board has notifed us that there might be academic dishonesty: specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. We were given the following tasks to complete;
 
-	*item1-replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact
-	*item2-repeat the school district analysis as we always documents
-	*item3-write up a report to describe how these changes affected the overall analysis
+	1-replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact
+	2-repeat the school district analysis for all schools
+	3-write up a report to describe how these changes affected the overall analysis
 	
-In order to accomplish this tasks we will use open-source distribution software called Anaconda and one of its products, Jupyter Notebook and Pandas programming library. 
-Using Jupyter Notebook and the Pandas library, we will read raw data from CSV files, inspect and clean data, merge datasets, perform mathematical calculations, and visualize the data with charts and graphs to tell a story.<br>
+
+In order to accomplish task 1 and 2 we have used open-source distribution software called Anaconda and one of its products, Jupyter Notebook and Pandas programming library. 
+Using Jupyter Notebook and the Pandas library, we read raw data from CSV files, inspected, and cleaned them, performed mathematical calculations and comp
 
 We created PyCitySchools_Challange_starter_code running this code gave us the following:<br>
 <br>
