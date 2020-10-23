@@ -17,11 +17,11 @@ We created PyCitySchools_Challange_starter_code running this code gave us the fo
 -After replacing the grades with NAN for Reading and Math results, 461 number of student accounts affected by this change.
 	Total Student count for the average calculations went down to 38,709<br>
 -Changing the grades to NAN reqired the passing math, passing reading and passing overall scored to be recalutaed.They are as below; 
-    	District Counts Before
+    	-District Counts Before
 	Pic
-	District Counts After
+	-District Counts After
 	pic
-	Overall passing percentage went down from 65.2 % to 64.9% which is .3 % downgrade.
+	-Overall passing percentage went down from 65.2 % to 64.9% which is .3 % downgrade.
 -Next we rerun all the analysis for the district and each school as requested.
 	
 -Although there is .3 % drop on the overall passing percentage Thomas High School kept its second place as high performing school.
