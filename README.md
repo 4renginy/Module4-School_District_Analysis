@@ -30,7 +30,7 @@ District Counts After<br>
 Looking at those pictures Overall passing percentage went down from 65.2 % to 64.9% which is .3 % downgrade.<br>
 
 Next we rerun all the analysis for the district and each school as requested. Following pictures show that Thomas High School's rating for math, reading and overall passing percentages have dropped.<br>
-Following figure shows the Average Math, Average REading, Avearge overall Passing, Spending per student and school sizes;<br>
+*Following figure shows the Average Math, Average REading, Avearge overall Passing, Spending per student and school sizes;<br>
 <br>
 Before Thomas High School Recalculations<br>
 
@@ -49,21 +49,22 @@ Passing_Math%............93.2721.........93.1856
 Passing_Overall%.........90.9480.........90.6303     
 
 <br>
--Although there is .3 % drop on the overall passing percentage Thomas High School kept its second place as high performing school.<br>
+*Although there is .3 % drop on the overall passing percentage Thomas High School kept its second place as high performing school.<br>
 <br>
 
 ![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/Challange_top5.PNG)
 
 <br>
-Per student spending for Thomas High School was for has remained the same as $ 638 however overall passing rate for the spendng bucket dropped from 62.8576% to  62.7782 %.<br>
+*Per student spending for Thomas High School was for has remained the same as $ 638, however overall passing rate for the spendng bucket dropped from 62.8576% to  62.7782 %.<br>
 
--Running the calculations for the type of the school showed despite the 0.5 %drop on THS success rate Charter Schools have better success rating than the district schools.<br>
+*Running the calculations for the type of the school showed despite the 0.5 %drop on THS success rate Charter Schools have better success rating than the district schools.<br>
  Before the change;<br>
  <br>
 ![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/Module_success_by_type.PNG)
 
 <br>
 After the change;<br>
+<br>
 ![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/Module_success_by_type.PNG)
 
 
