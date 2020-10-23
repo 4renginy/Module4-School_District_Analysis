@@ -41,12 +41,12 @@ After Thomas High School Recalculations<br>
 	
 _________________________Before___________After________
 
-Passing_Reading%.........97.3088........97.1873     
+Passing_Reading%.........97.3088.........97.1873     
 Passing_Math%............93.2721.........93.1856     
 Passing_Overall%.........90.9480.........90.6303     
 	
 -Although there is .3 % drop on the overall passing percentage Thomas High School kept its second place as high performing school.
-
+![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/Challange_top5.PNG)
 
 
 -Created the following spending bins
