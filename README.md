@@ -39,11 +39,11 @@ After Thomas High School Recalculations<br>
 
 
 	
-Before
+______________Before___________After________
 
-Reading		97.3088		97.1873     
-Math            93.2721		93.1856     
-Overall		90.9480		90.6303     
+Reading.........97.3088........	97.1873     
+Math   .........93.2721.........93.1856     
+Overall.........90.9480.........90.6303     
 	
 -Although there is .3 % drop on the overall passing percentage Thomas High School kept its second place as high performing school.
 
