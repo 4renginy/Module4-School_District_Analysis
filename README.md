@@ -1,7 +1,8 @@
 # School_District_Analysis
 
 
-#Background#
+## Background
+
 Maria and I work for city school district. We collects all the necessary information from school sites and state resources enter it to our system and analyze it.Those anlysis help the board to make sound decisions on how to spend budget most efficient way.
 Recently school board has notifed us that there might be academic dishonesty: specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. We were given the following tasks to complete;
 
@@ -9,7 +10,7 @@ Recently school board has notifed us that there might be academic dishonesty: sp
 	2-Repeat the school district analysis for all schools
 	3-Write up a report to describe how these changes affected the overall analysis
 	
-#Process and Results#
+## Process and Results
 In order to accomplish task 1 and task 2 we have used open-source distribution software called Anaconda and one of its products, Jupyter Notebook and Pandas programming library. 
 Using Jupyter Notebook and the Pandas library, we read raw data from CSV files, inspected, and cleaned them, performed mathematical calculations and completed the following code
 
@@ -48,9 +49,11 @@ Passing_Overall%.........90.9480.........90.6303
 <br>
 -Although there is .3 % drop on the overall passing percentage Thomas High School kept its second place as high performing school.<br>
 <br>
+
 ![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/Challange_top5.PNG)
+
 <br>
-Per student spending for Thomas High School was for has remained the same as $ 638 however overall passing rate for the spendng bucket dropped from 62.8576% to  62.7782 %,br>
+Per student spending for Thomas High School was for has remained the same as $ 638 however overall passing rate for the spendng bucket dropped from 62.8576% to  62.7782 %.<br>
 
 -Running the calculations for the type of the school showed despite the 0.5 %drop on THS success rate Charter Schools have better success rating than the district schools.<br>
  Before the change;<br>
