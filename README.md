@@ -15,7 +15,7 @@ Using Jupyter Notebook and the Pandas library, we read raw data from CSV files, 
 
 [PyCitySchools_Challange_starter_code](https://github.com/4renginy/School_District_Analysis/blob/main/PyCitySchools_Challenge_starter_code.ipynb) running this code gave us the following:<br>
 <br>
--After replacing the grades with NAN for Reading and Math results, 461 number of student accounts affected by this change and total Student count for the average calculations 	went down to 38,709, using the new numbers we have calculated the new math and readign scores. Results are shown below<br>
+-Replacing the grades with NAN for Reading and Math results affected 461 rows. By this change total Student count for the average calculations went down to 38,709, using the new total student number we have calculated the new math and readign scores. Results are shown below<br>
 
 <br>
 District Counts Before<br>
@@ -28,7 +28,7 @@ District Counts After<br>
 
 Looking at those pictures Overall passing percentage went down from 65.2 % to 64.9% which is .3 % downgrade.<br>
 
-Next we rerun all the analysis for the district and each school as requested. Folling pictures show that Thomas High School's rating for math, reading and overall pass percentages have being dropped.,br>
+Next we rerun all the analysis for the district and each school as requested. Following pictures show that Thomas High School's rating for math, reading and overall passing percentages have dropped.,br>
 Following figure shows the Average Math, Average REading, Avearge overall Passing, Spending per student and school sizes;<br>
 Before Thomas High School Recalculations<br>
 
@@ -44,15 +44,11 @@ _________________________Before___________After________
 Passing_Reading%.........97.3088.........97.1873     
 Passing_Math%............93.2721.........93.1856     
 Passing_Overall%.........90.9480.........90.6303     
-	
+
+
 -Although there is .3 % drop on the overall passing percentage Thomas High School kept its second place as high performing school.
 ![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/Challange_top5.PNG)
+The spening per student has remained the same but success rate in the bin Thomas High Scholl has dropped
+-Running the calculations for the type of the school showed despite the0.5 %drop on THS success rate Charter Schools have better success rating than the district schools.
 
 
--Created the following spending bins
-"<$584", "$585-629", "$630-644", "$645-675" and Thomas High Schol was in a 630-644 bin. There was no change to the change before and after calculations.
--Running the calculations for the type of the school 
-Charter Schools seemed to be more sucessful despide the drop on 0.5 % on Overall passing percentage..
--
- 
-sdfasd,
