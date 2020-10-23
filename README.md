@@ -26,9 +26,10 @@ District Counts After<br>
 
 ![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/Challange_Dist_Summary.PNG)
 
-Looking at those pictures Overall passing percentage went down from 65.2 % to 64.9% which is .3 % downgrade.
--Next we rerun all the analysis for the district and each school as requested. Folling pictures show that Thomas High School's rating for math, reading and overall pass percentages have being dropped.
-Following figure shows the Average Math, Average REading, Avearge overall Passing, Spending per student and school sizes;
+Looking at those pictures Overall passing percentage went down from 65.2 % to 64.9% which is .3 % downgrade.<br>
+
+Next we rerun all the analysis for the district and each school as requested. Folling pictures show that Thomas High School's rating for math, reading and overall pass percentages have being dropped.,br>
+Following figure shows the Average Math, Average REading, Avearge overall Passing, Spending per student and school sizes;<br>
 Before Thomas High School Recalculations<br>
 
 ![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/Module_categorized.PNG)
