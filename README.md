@@ -15,9 +15,8 @@ Using Jupyter Notebook and the Pandas library, we read raw data from CSV files, 
 
 [PyCitySchools_Challange_starter_code](https://github.com/4renginy/School_District_Analysis/blob/main/PyCitySchools_Challenge_starter_code.ipynb) running this code gave us the following:<br>
 <br>
--After replacing the grades with NAN for Reading and Math results, 461 number of student accounts affected by this change.<br>
-	Total Student count for the average calculations went down to 38,709<br>
--Changing the grades to NAN reqired the passing math, passing reading and passing overall scored to be recalutaed.They are as below;<br>
+-After replacing the grades with NAN for Reading and Math results, 461 number of student accounts affected by this change and total Student count for the average calculations 	went down to 38,709, using the new numbers we have calculated the new math and readign scores. Results are shown below<br>
+
 <br>
 	District Counts Before<br>
     <br>
@@ -28,7 +27,7 @@ Using Jupyter Notebook and the Pandas library, we read raw data from CSV files, 
     ![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/Challange_Dist_Summary.PNG)
 	
 Looking at those pictures Overall passing percentage went down from 65.2 % to 64.9% which is .3 % downgrade.
--Next we rerun all the analysis for the district and each school as requested.
+-Next we rerun all the analysis for the district and each school as requested. Folling pictures show how 
 	
 -Although there is .3 % drop on the overall passing percentage Thomas High School kept its second place as high performing school.
 
