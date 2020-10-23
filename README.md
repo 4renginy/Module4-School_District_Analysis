@@ -29,13 +29,15 @@ District Counts After<br>
 
 Looking at those pictures Overall passing percentage went down from 65.2 % to 64.9% which is .3 % downgrade.<br>
 
-Next we rerun all the analysis for the district and each school as requested. Following pictures show that Thomas High School's rating for math, reading and overall passing percentages have dropped.,br>
+Next we rerun all the analysis for the district and each school as requested. Following pictures show that Thomas High School's rating for math, reading and overall passing percentages have dropped.<br>
 Following figure shows the Average Math, Average REading, Avearge overall Passing, Spending per student and school sizes;<br>
+<br>
 Before Thomas High School Recalculations<br>
 
 ![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/Module_categorized.PNG)
 
 After Thomas High School Recalculations<br>
+<br>
 ![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/Challange_Categorized.PNG)
 
 
@@ -59,6 +61,7 @@ Per student spending for Thomas High School was for has remained the same as $ 6
  Before the change;<br>
  <br>
 ![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/Module_success_by_type.PNG)
+
 <br>
 After the change;<br>
 ![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/Module_success_by_type.PNG)
