@@ -67,3 +67,5 @@ After the change;<br>
 <br>
 
 ![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/Module_success_by_type.PNG)
+
+Overall the math, reading and overall passing rates and passing rate for the ($ 638) buckets have been dropped for both district and Thomas High School but it was not significant so THS kept its second place among most successful schools and medium size schools. Most affect was on per grade calculations for math, reading and overall success. 
