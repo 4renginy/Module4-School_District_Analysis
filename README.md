@@ -38,7 +38,7 @@ Before Thomas High School Recalculations<br>
 ![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/Module categorized.png)
 
 After Thomas High School Recalculations<br>
-<br>
+
 ![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/Challange_Categorized.PNG)
 
 
@@ -52,12 +52,12 @@ Passing_Overall%.........90.9480.........90.6303
 <br>
 *Although there is .3 % drop on the overall passing percentage Thomas High School kept its second place as high performing school.<br>
 <br>
-Before,
-<br>
+Each School Top 5 Before,<br>
+
 ![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/Module_first_five.PNG)
 <br>
-After
-<br>
+Each School Top 5 After<br>
+
 ![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/Challange_top5.PNG)
 
 <br>
