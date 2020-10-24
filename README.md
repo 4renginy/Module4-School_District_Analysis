@@ -35,7 +35,7 @@ Next we rerun all the analysis for the district and each school as requested. Fo
 <br>
 Before Thomas High School Recalculations<br>
 
-![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/Module categorized.png)
+![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/Module_categorized.png)
 
 After Thomas High School Recalculations<br>
 
