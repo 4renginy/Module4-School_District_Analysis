@@ -52,7 +52,12 @@ Passing_Overall%.........90.9480.........90.6303
 <br>
 *Although there is .3 % drop on the overall passing percentage Thomas High School kept its second place as high performing school.<br>
 <br>
-
+Before,
+<br>
+![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/Module_first_five.PNG)
+<br>
+After
+<br>
 ![](https://github.com/4renginy/School_District_Analysis/blob/main/Resources/Challange_top5.PNG)
 
 <br>
